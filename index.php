@@ -71,5 +71,7 @@
 		<input type="submit" name="submit" value="Search">
 	</form>
 
+	<a href="create.php">Voeg een nieuw merk toe</a>
+
 </body>
 </html>
