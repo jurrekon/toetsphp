@@ -1,0 +1,16 @@
+body
+{
+	font-family: calibri;
+	width: 1000px;
+	margin: 0 auto;
+}
+table
+{
+	background-color: lightgrey;
+	border-collapse: collapse;
+}
+tr, td, th
+{
+	border: solid white 1px;
+	padding: 8px;
+}
